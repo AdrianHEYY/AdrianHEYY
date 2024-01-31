@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianHEYY
 - 👀 I’m interested in openGL and robotics(kinda)
-- 🌱 I’m currently learning c++ and openGL
+- 🌱 I’m currently learning c++ & openGL. Also know a thing or two about java, javascript, C, C#, and some other languages
 - 📫 How to reach me: crainicuadrian@gmail.com
 
 <!---
